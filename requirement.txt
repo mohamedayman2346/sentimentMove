@@ -1,0 +1,14 @@
+
+
+                << all library you need to install to work this project >>
+for scraping
+-> pip install selenium
+
+for sentiment
+-> pip install nltk
+
+=> this code in sentiment file run it one time only
+ntlk.downlaod('vader_lexicon')
+
+for visulization 
+-> pip install matplotlib

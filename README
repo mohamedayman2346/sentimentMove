@@ -1,0 +1,19 @@
+
+ ************ welcome to my project ***************
+
+            << project Idea >>
+         -> analyze the move with name only.
+         -> you have folder named class this folder have file each file has special task.
+         -> first file scraping.py in this file i make class this each function in this class made to execute task with selenium.
+         -> second file Scraping_movie.py this file to get data of this movie and use last class to scrap the browser and save it.
+         -> third file sentiment.py this file to sentiment or analyze the movie comment and return me obj has postive and negative and netural.
+         -> fourth file visulization.py this take the object from sentiment and draw it .
+         -> last file this is the main file is important file becouse he connect all file with other by take the result  and send it in argument 
+            in next file .
+
+            << How to work >>
+         -> first step: go to requirement.txt and install all library to work this project
+         -> second step: go to main file and run the code the wait .
+         -> thrid step: your chrome browser is open hide it and return to terminal.
+         -> fourth step: enter the movie name.
+         
