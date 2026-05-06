@@ -2,7 +2,7 @@ from Classes.Scrapping_movie import Scraping_movie
 from Classes.sentiment import Sentiment
 from Classes.visulization import SentimentVisulization
 
-
+# mady by  << Helmy >>
 
 if __name__ == '__main__' :
     # some rule
