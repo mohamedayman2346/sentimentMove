@@ -45,7 +45,7 @@ class Sentiment:
         return sentiments
    
     # to set the analyze dictionary with the number of positive, negative and neutral comments
-    def set_analyze(self, sentiments: dict[str, float]) -> None:
+    def set_analyze(self, sentiments: list[dict[str, float]] ) -> None:
         for sentiment in sentiments :
             if sentiment['compound'] >= 0.05:
                 self.analyze['positive'] += 1
